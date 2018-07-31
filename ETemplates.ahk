@@ -25,9 +25,9 @@ You can access [ORG NAME's] sign-in page at XXXX. Your custom sign-in page allow
 
 Teacher Accounts and Class Rosters
 The next step is to create teacher accounts and class rosters in one of the following three ways.
-    - The quickest and most convenient way to create teacher accounts is to submit your student list with additional columns for "teacher name" and "teacher e-mail." As soon as I receive it, I'll create teacher accounts and assign students to class rosters for you.
+    - The quickest and most convenient way to create teacher accounts is to upload your student list with an additional column for the teacher e-mail along with a list of your teachers with their first name, last name, and e-mail address. As soon as you upload it, our system will create teacher accounts and assign students to class rosters for you. You may refer to the Upload Roster Quick-start Guide (https://www.ixl.com/userguides/IXLQuickStart_UploadRoster.pdf) for guidance with the process.
     - You can create teacher accounts yourself from the "Teachers" page in your admin account. Once their accounts are created, each teacher will receive an e-mail with steps to access their accounts and set up their class rosters.
-    - You can instruct teachers to create their own accounts by sharing the attached activation instructions with them. Once their accounts are created, teachers can follow the instructions found in our Teacher Quick-start Guide to set up their class rosters.
+    - You can instruct teachers to create their own accounts by sharing the attached activation instructions with them. Once their accounts are created, teachers can follow the instructions found in our Teacher Quick-start Guide (https://www.ixl.com/userguides/IXLQuickStart_SiteRoster.pdf) to set up their class rosters.
 
 Teachers who have trial accounts should follow the attached instructions under the heading, "If you already have a trial account," to ensure that their trial is successfully merged into your new subscription.
 
@@ -36,7 +36,7 @@ Need help getting started? We've created a toolkit of resources to help administ
     - Administrator Quick-start (https://www.ixl.com/userguides/IXLQuickStart_Administrator.pdf) Guide The illustrated guide provides step-by-step instructions for how to manage student accounts and run school-wide reports.
     - Frequently Asked Questions (https://www.ixl.com/help-center/School-administrators/665924) Need more help? IXL's Help Center offers answers to commonly asked questions.
 
-In addition to the resources listed above, our Professional Learning team offers customized professional development services for you and your teachers. Check out IXL's Professional Learning  to discover how our extensive professional development services can help your school have the best IXL experience possible!
+In addition to the resources listed above, our Professional Learning team offers customized professional development services for you and your teachers. Check out IXL's Professional Learning (https://www.ixl.com/community/professional-development/services) to discover how our extensive professional development services can help your school have the best IXL experience possible!
 
 Please feel free to reach out and let me know if you'd like assistance setting up teacher accounts, or if there is anything I can do to help you get started.
 
@@ -107,16 +107,9 @@ Please let me know if you have any questions - I'm happy to be a resource for yo
 ;1.04 Manual Setup*
 ::x104::
 (
-*ADD ATTACHMENT*
+I've prepared your subscription for manual setup and sent you instructions to guide you through the process. You will also receive your admin account information in a separate e-mail.
 
-Thank you for submitting your student list. I have created accounts for your students, and you can view their usernames and passwords on your master roster.
-
-The next step is to create teacher accounts and class rosters in one of the following three ways.
-    - The quickest and most convenient way to create teacher accounts is to submit your student list with additional columns for "teacher name" and "teacher e-mail." As soon as I receive it, I'll create teacher accounts and assign students to class rosters for you.
-    - You can create teacher accounts yourself from the "Teachers" page in your admin account. Once their accounts are created, each teacher will receive an e-mail with steps to access their accounts and set up their class rosters.
-    - You can instruct teachers to create their own accounts by sharing the attached activation instructions with them. Once their accounts are created, teachers can follow the instructions found in our Teacher Quick-start Guide (https://www.ixl.com/userguides/IXLQuickStart_SiteRoster.pdf) to set up their class rosters.
-
-Let me know if you have any questions. I look forward to hearing from you!
+If you have any questions, or if you'd like for me to upload your students and teachers for you, please don't hesitate to ask. I'm always available as a resource for you and your teachers.
 )
 
 ;1.05 Students Added (Teacher info NOT included)
@@ -127,7 +120,7 @@ Let me know if you have any questions. I look forward to hearing from you!
 Thank you for submitting your student list. I have created accounts for your students, and you can view their usernames and passwords on your master roster.
 
 The next step is to create teacher accounts and class rosters in one of the following three ways.
-    - The quickest and most convenient way to create teacher accounts is to submit your student list with additional columns for "teacher name" and "teacher e-mail." As soon as I receive it, I'll create teacher accounts and assign students to class rosters for you.
+    - The quickest and most convenient way to create teacher accounts is to upload your student list with an additional column for the teacher e-mail along with a list of your teachers with their first name, last name, and e-mail address. As soon as you upload it, our system will create teacher accounts and assign students to class rosters for you. You may refer to the Upload Roster Quick-start Guide (https://www.ixl.com/userguides/IXLQuickStart_UploadRoster.pdf) for guidance with the process.
     - You can create teacher accounts yourself from the "Teachers" page in your admin account. Once their accounts are created, each teacher will receive an e-mail with steps to access their accounts and set up their class rosters.
     - You can instruct teachers to create their own accounts by sharing the attached activation instructions with them. Once their accounts are created, teachers can follow the instructions found in our Teacher Quick-start Guide (https://www.ixl.com/userguides/IXLQuickStart_SiteRoster.pdf) to set up their class rosters.
 
@@ -158,6 +151,36 @@ Let me know if you have any questions!
 Thank you for submitting your student list. I have reactivated those students to your subscription and they are now free to begin practicing once again. Additionally, their teacher can now pull them onto their roster to start monitoring their practice.
 
 Let me know if there's anything else I can help you with!
+)
+
+;1.09 Changed Primary Contact
+::x109::
+(
+I have changed the primary contact information to reflect that you are now in charge of [ORG NAME's] subscription.
+
+Additionally, I have sent your admin account login information to you in a separate e-mail.To sign in, you should access [ORG NAME's] sign-in page at XXXX. From your admin account you will be able to manage student and teacher accounts and monitor student performance.
+
+Below are links to useful guides that you can access for additional guidance and support.
+    - Administrator Quick-start Guide (https://www.ixl.com/userguides/IXLQuickStart_Administrator.pdf) The illustrated guide provide step-by-step instructions for how to manage student accounts and run school-wide reports.
+    - Frequently Asked Questions (https://www.ixl.com/help-center/School-administrators/665924) Need more help? IXL's Help Center offers answers to common questions.
+
+In addition to the resources listed above, our Professional Learning team offers customized professional development services for you and your teachers. Check out IXL's Professional Learning (https://www.ixl.com/community/professional-development/services) to discover how our extensive professional development services can help your school have the best IXL experience possible!
+
+Please let me know if you have any questions - I'm happy to be a resource for you and your teachers so feel free to contact me anytime!
+)
+
+;1.10 Reactivation
+::x110::
+(
+Thanks for reaching out.
+
+I apologize for this. IXL has an automated process that occurs two weeks prior to the first day of school that is listed in the system for a subscription. The process promotes all students up a grade level and clears teachers rosters to get ready for the new year. We send out automated e-mails warning about the process to the primary administrator (cc'ed here), but we need to be notified if it is to be deactivated.
+
+Your school's subscription has the first day of school listed as DATE, so the promotion and roster clearing occurred DATE.
+
+I have reversed the promotion of the students, reactivated the dropped students, restored teacher rosters, and deactivated the process from occurring again this school year. All student progress and credentials are intact.
+
+Again, I apologize for the inconvenience and frustration this has caused. Please let me know if there is anything else I can do for you.
 )
 
 ;----------------------------------- HOW TO -------------------------------------------------------------------------------------------------------------
@@ -336,10 +359,29 @@ Please let me know if you have any other questions or problems with this process
 ;3.01 Initial Contact
 ::x301::
 (
-Welcome to IXL! I will be assisting you in getting your students and teachers started with the program.
+Welcome to IXL! My name is NAME and I am your Account SPECIALIST/COORDINATOR. I will be assisting you in getting your students and teachers started with the program.
 
-To get started, using an Excel spreadsheet, please compile a roster with the following information in separate columns:
+To get started, you will need to compile an Excel file with two sheets, one for your students and one for your teachers. You may use the attached template file to work from, or you can create your own.
 
+The last column in the student file will allow you to add students to your teachers' class rosters right away.
+
+If a teacher has a trial account, please exclude them from the teacher list. They will receive instructions on how to merge their account into the new subscription.
+
+Once the file is ready, please upload it to our secure uploading page using the following link: XXX
+
+Then follow the instructions on that page to format your files and upload your roster. For your convenience, here is a link to our Upload Roster Quick Start Guide (https://www.ixl.com/userguides/IXLQuickStart_UploadRoster.pdf).
+
+If you are having trouble uploading your file, please feel free to use the "Work with an account specialist" button to request help, and I will be happy to assist you with the process.
+
+Please let me know if you have any questions.
+)
+
+;3.02 Second Contact
+::x302::
+(
+I am excited to get your school set-up with your IXL subscription! In order to get started,  you will need to compile an Excel file with two sheets, one for your students and one for your teachers. You may use the attached template file to work from, or you can create your own.
+
+If you decide to create your own, please include the following information
     - First name
     - Last name
     - Student ID number
@@ -353,28 +395,9 @@ The last two columns will allow me to create teacher accounts and class rosters 
 
 If a teacher has a trial account, please exclude them from the teacher list. I will send instructions on how to merge their trial account once the subscription is activated.
 
-Once the file is ready, please submit it to our secure uploading page using the following link: XXX
+Once the file is ready, please upload it to our secure uploading page using the following link: XXX
 
-I look forward to hearing from you and helping you get started with IXL!
-)
-
-;3.02 Second Contact
-::x302::
-(
-I am excited to get your school set-up with your IXL subscription! In order to get you started using an Excel spreadsheet, please compile a roster with the following information in separate columns:
-
-    - First name
-    - Last name
-    - Student ID number
-    - Grade level
-    - School (if applicable)
-    - Student or parent email (recommended)
-    - Teacher name
-    - Teacher email
-
-The last two columns will allow me to create teacher accounts and class rosters right away. If a student is associated with more than one teacher, please list each additional teacher in a separate column.If teachers have trial accounts please exclude from teacher list and e-mail those teachers' names to me.
-
-Once the file is ready, please submit it to our secure uploading page using the following link: XXX
+Then follow the instructions on that page to format your files and upload your roster. For your convenience, here is a link to our Upload Roster Quick Start Guide (https://www.ixl.com/userguides/IXLQuickStart_UploadRoster.pdf).
 
 Please let me know if you have any questions or concerns and I will be happy to answer them.
 )
@@ -390,12 +413,15 @@ Your subscription is set to automatically activate soon and I noticed that we ha
     - Grade level
     - School (if applicable)
     - Student or parent email (recommended)
-    - Teacher name
     - Teacher email
 
-The last two columns will allow me to create teacher accounts and class rosters right away. If a student is associated with more than one teacher, please list each additional teacher in a separate column.If teachers have trial accounts please exclude from teacher list and e-mail those teachers' names to me.
+The last two columns will allow me to create teacher accounts and class rosters right away. If a student is associated with more than one teacher, please list each additional teacher in a separate column.
+
+If a teacher has a trial account, please exclude them from the teacher list. I will send instructions on how to merge their trial account once the subscription is activated.
 
 Once the file is ready, please upload it to our secure uploading page using the following link: XXX
+
+Then follow the instructions on that page to format your files and upload your roster. For your convenience, here is a link to our Upload Roster Quick Start Guide (https://www.ixl.com/userguides/IXLQuickStart_UploadRoster.pdf).
 
 Please let me know if you have any questions or concerns and I will be happy to answer them.
 )
@@ -414,9 +440,13 @@ I noticed we haven't received a roster from you to set up your IXL subscription.
     - Teacher name
     - Teacher email
 
-The last two columns will allow me to create teacher accounts and class rosters right away. If a student is associated with more than one teacher, please list each additional teacher in a separate column.If teachers have trial accounts please exclude from teacher list and e-mail those teachers' names to me.
+The last two columns will allow me to create teacher accounts and class rosters right away. If a student is associated with more than one teacher, please list each additional teacher in a separate column.
 
-Once the file is ready, please submit it to our secure uploading page using the following link: https://www.ixl.com/admin/upload-roster-files
+If a teacher has a trial account, please exclude them from the teacher list. I will send instructions on how to merge their trial account once the subscription is activated.
+
+Once the file is ready, please upload it to our secure uploading page using the following link: XXX
+
+Then follow the instructions on that page to format your files and upload your roster. For your convenience, here is a link to our Upload Roster Quick Start Guide (https://www.ixl.com/userguides/IXLQuickStart_UploadRoster.pdf).
 
 Please let me know if you have any questions or concerns and I will be happy to answer them.
 )
@@ -441,41 +471,43 @@ Please let me know if you have any other questions or problems with this process
 ;4.01 MISSING STUDENT IDS
 ::x401::
 (
-Thank you for uploading your student list.
+Thank you for requesting assistance.
 
-I noticed that your spreadsheet does not contain student ID numbers. In order to upload your student list, I will need a unique student ID assigned to each student. We ask for student IDs so that we can uniquely identify each student account on your license to prevent duplicate accounts. Do you have any type of unique identifier such as a school assigned student number of a lunch pin/library card number?
+I noticed that you are having some difficulties completing your upload. This is due to the fact that your spreadsheet does not contain student ID numbers. In order to upload your student list, you will need a unique student ID assigned to each student. We ask for student IDs so that our system can uniquely identify each student account on your license to prevent duplicate accounts. Do you have any type of unique identifier such as a school assigned student number of a lunch pin/library card number?
 
-Please submit an updated list, including an ID number and I'll be happy to upload the student list and create student accounts right away. I look forward to hearing from you soon!
+Please upload an updated list, including an ID number and our system will then be able to process it.
+
+If you are still having trouble uploading your file, please feel free to use the "Work with an account specialist" button to request help, and I will be happy to assist you with the process.
 )
 
 ;4.02 MISSING GRADE LEVELS
 ::x402::
 (
-Thank you for submitting your student list.
+Thank you for uploading your student list.
 
-I noticed that your spreadsheet does not contain grade levels for students. We ask for grade levels to ensure that the students receive proper access to your IXL subscription.
+I noticed that your spreadsheet does not contain grade levels for students. You will need to provide a grade levels to ensure that the students receive proper access to your IXL subscription.
 
-Please send me an updated list, including grade levels, and I'll be happy to upload the student list and create student accounts right away. I look forward to hearing from you soon!
+Please upload an updated list that includes grade levels. If you are still having trouble uploading your file, please feel free to use the "Work with an account specialist" button to request help, and I will be happy to assist you with the process.
 )
 
 ;4.03 MISSING BOTH
 ::x403::
 (
-Thank you for submitting your student list.
+Thank you for uploading your student list.
 
 I noticed that your spreadsheet does not contain student ID numbers nor grade levels. We ask for student IDs so that we can uniquely identify each student account on your license to prevent duplicate accounts. Additionally, we ask for grade levels to ensure that the students receive proper access to your IXL subscription.
 
-Please send me an updated list, including grade levels and student IDs, and I'll be happy to upload the student list and create student accounts right away. I look forward to hearing from you soon!
+Please upload an updated list that includes grade levels and student IDs. If you are still having trouble uploading your file, please feel free to use the "Work with an account specialist" button to request help, and I will be happy to assist you with the process.
 )
 
 ;4.04 MISSING SCHOOL
 ::x404::
 (
-Thank you for submitting your student list.
+Thank you for uploading your student list.
 
-I noticed that your spreadsheet does not contain schools. In order to upload your student list, I will need a school listed for each student. Since you have a district subscription we will need to separate the students according to their school/campus.
+I noticed that your spreadsheet does not contain schools. In order to upload your student list, you will need a school listed for each student. Since you have a district subscription we will need to distinguish students according to their school/campus.
 
-Please send me an updated list, including schools and I'll be happy to upload the student list and create student accounts right away. I look forward to hearing from you soon!
+Please upload an updated list which includes schools. If you are still having trouble uploading your file, please feel free to use the "Work with an account specialist" button to request help, and I will be happy to assist you with the process.
 )
 
 ;4.05 MISSING CUSTOM LABEL
@@ -483,15 +515,15 @@ Please send me an updated list, including schools and I'll be happy to upload th
 (
 Thank you for submitting your student list.
 
-I noticed that your spreadsheet does not contain custom labels. In order to upload your student list, I will need the custom label [CUSTOM LABEL] assigned to each student that will need access to [SUBJECTS]. We ask for a custom label so that we can separate students according to specific bundles to ensure they get access to the correct subjects.
+I noticed that your spreadsheet does not contain custom labels. In order to upload your student list, you will need the custom label [CUSTOM LABEL] assigned to each student that will need access to [SUBJECTS]. We ask for a custom label so that we can separate students according to specific bundles to ensure they get access to the correct subjects.
 
-Please send me an updated list, including the custom label and I'll be happy to upload the student list and create student accounts right away. I look forward to hearing from you soon!
+Please upload an updated list which includes the appropriate custom labels. If you are still having trouble uploading your file, please feel free to use the "Work with an account specialist" button to request help, and I will be happy to assist you with the process.
 )
 
 ;4.06 TOO MANY STUDENTS
 ::x406::
 (
-Thank you for your message. I see that your list includes ### students, while your subscription was purchased for ### student licenses. Should all of the students on the list provided have IXL accounts? If not, please send me an updated list and I'll be happy to update your master roster for you.
+Thank you for your message. I see that your list includes ### students, while your subscription was purchased for ### student licenses. Should all of the students on the list provided have IXL accounts? If not, please upload an updated list and our system will then be able to process it.
 
 If you'd like all students to have access, and are interested in finding out more about purchasing additional licenses, I'll be happy to put you in touch with REPSNAME, your sales coordinator.
 
@@ -507,7 +539,7 @@ Thank you for submitting your roster.
 
 I see that your file is not an Excel document and that is the only file type that our system will accept. For your convenience, I have attached a template of the file format that I need to get your students set up.
 
-Once the file is ready, please submit it through our secure uploading page using the following link: XXXX
+Once the file is ready, please upload it through our secure uploading page using the following link: XXXX
 
 I look forward to hearing from you and helping you get started with IXL!
 )
@@ -542,6 +574,8 @@ We have recently updated our security and privacy practices and we are no longer
         - Grade
         - ID Number
         - Teacher Email
+
+    If you have any questions please feel free to reach out!
 )
 ;----------------------------------- TASKS -------------------------------------------------------------------------------------------------------------
 ;5.01 Unused Licenses
@@ -634,6 +668,13 @@ The last two teacher columns will allow me to add students to their class roster
 
 When ready, you can upload this information through the secure file upload tool by logging in to your admin account and clicking "Upload Roster Files" within the "Account Management" tab.
 
+Alternatively, you may manually add the new students through your administrator account by following these steps:
+
+    1. Sign into your IXL admin account
+    2. Go to the Students page under the Account Management tab
+    3. Select "Add new student”
+    4. Input the students information
+
 Let me know if you have any questions - I am always happy to help!
 )
 
@@ -671,22 +712,39 @@ Please let me know if you have any further questions or concerns and I will be h
 ::x604::
 (
 Thank you for reaching out. You have two accounts, one your teacher account and the other is your administrator account.
-Sign into the teacher account, XXXX, to assign skills and monitor your students' progress through Analytics.
-Sign into your admin account, XXXX, to access to view, add, delete, and edit any student or teacher account.
+    - Sign into the teacher account, XXXX, to assign skills and monitor your students' progress through Analytics.
+    - Sign into your admin account, XXXX, to access to view, add, delete, and edit any student or teacher account.
 
 If you remove a student from the roster in your teacher account, the student will remain on the master roster. You can completely remove a student from your subscription from your admin account.
 
 Let me know if you have any other questions, and I'll be happy to help.
 )
 
-;6.05 Auto Roster - Stage 1
+;6.05 Auto Rostering
 ::x605::
 (
-Thank you for reaching out! We do have an auto-rostering process that allows you to  upload CSVs containing student data at any time to our SFTP server, and we'll apply updates nightly at 9pm PST to keep your IXL account in sync with your Student Information System.
+*attach IXL-Auto-Rostering-Specifications-available on HUB*
 
-I have attached the file specifications for your review. If you are interested, we can move forward to the testing process. Since every file is different, the testing process may take up to two weeks.
+My name is NAME, my role is to assist you in setting up your account, which includes help with rostering and unique username/password combinations.
 
-Please let me know if you have any questions at this time.
+There are two ways you can upload your roster data to IXL.
+
+The first way is to upload and edit roster files manually through the "Upload Roster” section of your IXL portal which will allow you to create teacher and student rosters.  Choosing to upload the files yourself allows you to have full control of adding or removing teachers and students at your discretion. If you have any trouble please click the "Work With An Account Specialist” button to transfer the file to me securely and I will be happy to assist you.
+The following is a link to our manual rostering specifications, which details the format the files need your data to be in:
+
+https://www.ixl.com/userguides/IXLQuickStart_UploadRoster.pdf
+
+The second way to upload roster data is through IXL's Auto-Rostering feature. This feature allows you to sync data from your school or district SIS into your IXL account through an SFTP connection. This effectively allows you to manage your IXL students, teachers, and classes centrally from your SIS. Once the Auto-Roster feature is enabled, you will no longer be able to manage students and teachers manually through the IXL website. All changes are provided through your school or district SIS file transfer, which will be uploaded nightly through our Auto-Roster sync.
+
+The following is a link to our Auto-Rostering Technical Specifications, which details the format we need your data to be in:
+
+https://www.ixl.com/help_docs/IXL-Auto-Rostering-Specifications.pdf
+
+Alternatively, IXL supports the OneRoster v1.1 CSV standard. We only use a subset of the data, but we accept the standard set of files as described in the OneRoster specification, with no special additions or modifications needed.
+
+Please note that we do not integrate with Clever for SSO or student rostering, so we are unable to accept files directly from Clever.
+
+Please let me know which method is right for your account and I will be happy to provide more information.
 )
 
 ;6.06 SSO - What is it?
@@ -771,6 +829,8 @@ Let me know if you have any other questions!
 ;7.01 Initial Merge Bulk/Trial to site
 ::x701::
 (
+*INCLUDE BOTH ADMIN AND TEACHER IN E-MAIL*
+
 I understand you would like to transfer the student data from your TRIAL ACCOUNT/CLASSROOM SUBSCRIPTION to the school's IXL subscription.
 
 Since school subscriptions are set up a little differently than TRIAL ACCOUNT/CLASSROOM SUBSCRIPTION, we'll need to upload a student list to ensure that the students are set up properly. Once I upload your list, we can begin the transfer process.
@@ -798,6 +858,9 @@ Let me know if you have any questions. I look forward to hearing from you soon!
 ;7.02 Trial Merge Set-up Confirmation
 ::x702::
 (
+*ATTACH TEACHER ACTIVATION INSTRUCTIONS*
+*INCLUDE BOTH ADMIN AND TEACHER IN E-MAIL*
+
 Thank you for sending this student list! I have successfully uploaded your students to the master  roster. The next step is to follow the attached instructions under the heading, "If you already have a trial account," to ensure that your trial data is successfully merged into your new license.
 
 Again, please note that usernames and passwords will change, but these can be edited at any time. Additionally, if students already had accounts within the school subscription, their data will be overwritten.
@@ -815,4 +878,16 @@ If the students' first and last names on the classroom roster did not match thos
 Otherwise, students are all set up and may begin practicing right away!
 
 Please let me know if you have any questions or if I can be of any further assistance.
+)
+
+;7.04 Site to Site Merge Confirmation
+::x704::
+(
+I have successfully merged the [ORIGINAL ACCOUNT] school subscription into the [NEW ACCOUNT] subscription. All student accounts should be available there immediately.
+
+Your new admin account has been created on the [NEW ACCOUNT] subscription as well. Please check your e-mail for your account confirmation.
+
+Please ensure that you as well as all of your students and teachers utilize the [NEW ACCOUNT] custom sign in page to sign in from now on. They can find it here: XXXX
+
+Please let me know if you have any questions.
 )
